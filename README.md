@@ -1,5 +1,5 @@
-# Acidentes_de_Transito_2022-23
-Projeto de análise de dados de acidentes de transito de 2022 e 2023
+# Acidentes_de_Transito
+Projeto de análise de dados de acidentes de transito de 2018 a 2023
 
 ![image](https://github.com/LealDias/Acidentes_de_Transito_2022-23/assets/70763447/a9a4c663-a077-47bd-9da7-92907cb545b7)
 
