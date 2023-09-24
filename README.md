@@ -14,7 +14,8 @@ Fonte: https://www12.senado.leg.br/tv/programas/em-discussao/2022/09/transito-br
 
 ## Objetivo:
 
-
+Analisar os dados da base do MINFRA com o intuito de identificar padrões e tendências que ajudem a contar a história de como os acidentes ocorrem nas vias brasileiras.
+Através dos insights das análises, fica em aberto as indicações de quais ações devem ser tomadas para redução dos acidentes no trânsito.
 
 ## Fonte dos Dados:
 
